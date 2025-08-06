@@ -19,21 +19,21 @@ All image files were panoramas, but for the sake of this writeup, if I have to r
 _Oh goodness... this took me literal hours. It might be the third challenge on the docket but it was the last one I finished._
 <img src="3.png" width="900">
 
-1. Washington State
+1. Washington State:
  The rare variant of the [Washington State bollard](https://www.plonkit.net/united-states-2#1) (white instead of the usual brown). Reverse image search narrowed things down to Puget Sound.
 
-2. Bainbridge Island?
+2. Bainbridge Island(?):
 Reverse image search, focusing on the two houses, pulled up several listings on Bainbridge Island. Using satellite view, I looked along the coast for a house with a visible tennis court. I found nothing.
 
 _I then gave up. I came back several hours later..._
 
-3. Coverage
+3. Coverage:
 The Google copyright on the panorama suggested the coverage occurred in 2024. The footage was also taken on a virtually cloudless day. I finally notice that the coverage on Bainbridge Island (taken in 2013, 2018 or 2024) is noticeably cloudier. I was looking at the wrong island.
 
-4. The Butterfly Method
+4. The Butterfly Method:
  (This is the method that miraculously found me 'butterfly' in idekCTF 2024.) I [generated 100 random locations in Puget Sound that had 2024 coverage](https://map-degen.vercel.app/) and observed the distribution. 2024 coverage was everywhere, but a similar-looking island caught my eye.
 
- 5. Fox Island
+ 5. Fox Island:
  I immediately noticed the matching cloudless coverage, and used satellite view to scan along the coast.
 
 **Location: [47.2397457,-122.6311317](https://maps.app.goo.gl/4qw1y2hVC3faLxFM6)**
@@ -43,7 +43,7 @@ _**NOTE:** I was avoiding relying on the Google copyright date, because I'd noti
 ### 4. Walkable
 <img src="4.png" width="600">
 
-1. The Argentina/Alaska 50-50
+1. The Argentina/Alaska 50-50:
 I thought it was max south Argentina, because the car behind us seemed to have an Argentina license plate. However, reverse image search insisted it was Valdez, Alaska. AI wins again, as roads in Tierra del Fuego have no rumble strips or yellow centre line, while the Alaskan roads do.
 2. Distinct mountain range and lake to the left
 3. Pedestrian pathway with a woman walking suggests we are near a town
@@ -110,5 +110,6 @@ _I assumed it was 188km as the crow flies (a false assumption I've made before, 
 
 4. Use Google Maps to identify points on roads in East Calabarzon that have an approximate driving distance of 188km to Luneta, then scan about 1-2km up and down the roads from those points.
 5. While scanning in the town of San Rafael, I notice lamps of a similar design and know I'm near.
+
 
 **Location: [13.9097061,121.9948618](https://maps.app.goo.gl/mbwZSCE7FWoi9UhQ8)**
