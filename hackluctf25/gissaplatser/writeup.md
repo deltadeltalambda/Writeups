@@ -33,7 +33,7 @@ The limited amount of text are all in **latin alphabet**, so it's unlikely Thail
 3. Amazon...?  
 As the image features a river, I started my search along small towns lining the Amazon river, across several states.
 
-4. Amazonas!!
+4. Amazonas!!  
 I realised that the title of this image (bezos -> Jeff Bezos -> Amazon) could mean the Brazilian state of **Amazonas**, not the entire Amazon rainforest as a whole. I finally found it in the town of Iranduba, just south of Manaus.
 
 **Location: [-3.2920818,-60.1881909](https://maps.app.goo.gl/XS8m3QYNiza23tNT9)**
@@ -58,13 +58,13 @@ _Once again, I'm only now noticing the title of this image is selbstlos, German 
 
 ### 7. wheniwanttogetdrunkigoto
 
-1. Malta
+1. Malta  
 EU license plate, Maltese architecture. Malta is very dense and well-covered by Google street view, though. So how do we find this place?
 
-2. Statue
+2. Statue  
 There's a blurry **statue** in the background. I then went on Open Street Map and realised monuments in Malta are quite thoroughly mapped on there. So much so that the broadest query turned up over 1000 pieces of public art.
 
-3. Query 
+3. Query   
 Using Overpass Turbo, I queried for all statues in Malta. There were about 40 results, much more manageable than 1000. Lucky for me, the statue in question was mapped out - the Agatha Barbara statue, in Zabbar.
 ```
 {{geocodeArea:Malta}}->.searchArea;
@@ -99,16 +99,16 @@ _This was the last image I solved, and it took much longer than it should have. 
 
 <img src="img3.png" width="1000">
 
-1. Thailand
+1. Thailand  
 Yellow-and-black striped pole base, square concrete utility poles, black-and-white striped bollard, left-hand drive, Thai language
 
-2. Red(io) Herring
+2. Red(io) Herring  
 There is a massive **red-and-white lattice radio tower** in the image. As this image was titled 'radio', I falsely believed this was the intended solution pathway. Using Overpass Turbo, I queried for all radio towers, then all lattice towers in Thailand. All in all, I spent 2 hours looking at almost 200 locations and eventually gave up.
 
-3. The Morning After
+3. The Morning After  
 The next day, with fresh eyes, I finally clocked the **phone number** in the image. I'd ignored it the day before because the prefix was not useful for region-guessing in Thailand... forgetting that I could _just Google it_.
 
-4. School
+4. School  
 The number **082-2553624** is for โรงเรียนสายมิตรวังท่าช้าง (Sai Mitr Wang Tha Chang School) in Prachin Buri, Thailand. Searching along the main road (highway 2006) through neighboring towns, I found the radio tower in less than 5 minutes, in the town of Bo Thong.
 
 **Location: [13.9160591,101.838961](https://maps.app.goo.gl/z5K7nSLQuZNSAKgP8)**
@@ -119,3 +119,4 @@ Overall, most of the locations were not difficult. I found 8 images relatively q
 
 
 It's amusing to me that the images that require a bit of elbow grease to find (i.e. more than just reverse image searching) had titles that were intended to function as clues. With the exception of #4 and #8, I genuinely did not notice that pattern at all before writing this writeup. It's rather annoying to consider how you had to write a whole query and look at 40+ statues in Malta when someone else could've solved it by just looking at the map of Malta and going 'wheniwanttogetdrunkigoto... zabbar? hahaha'. Sigh.
+
