@@ -27,13 +27,13 @@ _Funnily enough, I only noticed while writing this that the title of the locatio
 
 <img src="img0.png" width="800">
 
-1. Brazil
+1. Brazil  
 The limited amount of text are all in **latin alphabet**, so it's unlikely Thailand/Cambodia. We can also see a **utility pole with ladder-style indents and a white painted base**, which is typical for Brazil (though the normal Brazilian pole is much thicker than this). The image features many palms (e.g. Acai palm) that are common in the **Amazon rainforest**.
 
-2. Amazon...?
+3. Amazon...?  
 As the image features a river, I started my search along small towns lining the Amazon river, across several states.
 
-3. Amazonas!!
+4. Amazonas!!
 I realised that the title of this image (bezos -> Jeff Bezos -> Amazon) could mean the Brazilian state of **Amazonas**, not the entire Amazon rainforest as a whole. I finally found it in the town of Iranduba, just south of Manaus.
 
 **Location: [-3.2920818,-60.1881909](https://maps.app.goo.gl/XS8m3QYNiza23tNT9)**
@@ -116,5 +116,6 @@ The number **082-2553624** is for โรงเรียนสายมิตร�
 
 ## Final Thoughts
 Overall, most of the locations were not difficult. I found 8 images relatively quickly but got tripped up on #4 and #10, which cost me hours. It's unfortunate that the radio tower in #10 was not mapped on OSM. I did expect that Thailand was unlikely to be very thoroughly mapped and evidently, I should've trusted my gut and not overcommitted to that method without first exploring easier alternatives. Massive blunder on my end.
+
 
 It's amusing to me that the images that require a bit of elbow grease to find (i.e. more than just reverse image searching) had titles that were intended to function as clues. With the exception of #4 and #8, I genuinely did not notice that pattern at all before writing this writeup. It's rather annoying to consider how you had to write a whole query and look at 40+ statues in Malta when someone else could've solved it by just looking at the map of Malta and going 'wheniwanttogetdrunkigoto... zabbar? hahaha'. Sigh.
